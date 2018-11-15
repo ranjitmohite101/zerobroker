@@ -1,0 +1,8 @@
+{
+  "name": "Zerobroker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "1d6656c5"
+}
